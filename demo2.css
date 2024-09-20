@@ -1,0 +1,44 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+
+}
+.container{
+    width: 700px;
+    background-color: white;
+    border-radius: 30px;
+}
+.ome{
+    width: 650px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 30px;
+}
+.text{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.pre{
+    background-color: rgb(221, 192, 202);
+    width: 650px;
+    border-radius: 10px;
+}
+h3{
+    color: mediumvioletred;
+}
+h2{
+    color: sienna;
+}
+.together{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.ptext{
+    font-size: 25px;
+    margin-right: 320px;
+}
